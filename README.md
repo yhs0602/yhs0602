@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyhsgeekcode&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 [![KYHSGeekCode's github stats](https://github-readme-stats.vercel.app/api?username=kyhsgeekcode&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyhsgeekcode)](https://github.com/anuraghazra/github-readme-stats)
+
+
