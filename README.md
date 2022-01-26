@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyhsgeekcode&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+![Profile views](https://gpvc.arturio.dev/KYHSGeekCode)
+
 [![KYHSGeekCode's github stats](https://github-readme-stats.vercel.app/api?username=kyhsgeekcode&show_icons=true&include_all_commits=true&theme=aura&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
