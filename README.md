@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyhsgeekcode&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kyhsgeekcode&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=kyhsgeekcode&theme=calm)](https://github.com/KYHSGeekCode)
+
+
 ![Profile views](https://gpvc.arturio.dev/KYHSGeekCode)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyhsgeekcode)](https://github.com/kyhsgeekcode)
 
 [![KYHSGeekCode's github stats](https://github-readme-stats.vercel.app/api?username=kyhsgeekcode&show_icons=true&include_all_commits=true&theme=aura&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
