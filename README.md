@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=yhs0602&theme=calm)](https://github.com/yhs0602)
 
 
-![Profile views](https://gpvc.arturio.dev/KYHSGeekCode)
+![Profile views](https://gpvc.arturio.dev/yhs0602)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyhs0602)](https://github.com/yhs0602)
 
 [![yhs0602's github stats](https://github-readme-stats.vercel.app/api?username=yhs0602&show_icons=true&include_all_commits=true&theme=aura&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
