@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-murex-theta-70.vercel.app/api/top-langs/?username=yhs0602&layout=compact&langs_count=8&count_private=true&exclude_repo=risc-v-toolchain-apple-sillicon-m1,onffline-homepage,DRPKMirror,os-book-source,Transaction,&hide=html,php)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gist Card](https://github-readme-stats-murex-theta-70.vercel.app/api/gist?id=dd17c5c279e27980bdcc03b8c7cf1134)](https://gist.github.com/yhs0602/dd17c5c279e27980bdcc03b8c7cf1134/)
+[![Gist Card](https://github-readme-stats-murex-theta-70.vercel.app/api/gist?id=dd17c5c279e27980bdcc03b8c7cf1134&refresh=1)](https://gist.github.com/yhs0602/dd17c5c279e27980bdcc03b8c7cf1134/)
 
 
 <!--
